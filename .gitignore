@@ -1,0 +1,13 @@
+bin/*
+libs/*
+.settings/*
+proguard/
+.gradle/
+build/
+gen/
+*.class
+*.dex
+*.apk
+*.ap_
+local.properties
+*.log
